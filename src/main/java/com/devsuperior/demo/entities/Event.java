@@ -33,7 +33,7 @@ public class Event {
 		this.name = name;
 		this.date = date;
 		this.url = url;
-		this.city = city;
+		this.city = city; 
 	}
 
 	public Long getId() {
